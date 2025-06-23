@@ -1,29 +1,30 @@
 ## To-do app
 
-Here are some useful features you can add to your todo app:
+This is a simple React-based to-do app with the following features:
 
-1. **Delete a Todo**  
-   Add a button next to each todo to remove it from the list.
+1. **Add a Todo**  
+   Enter a task in the input box and click "Add" to add it to your list.
 
-2. **Mark as Completed**  
-   Allow users to mark a todo as done (for example, by clicking on it or with a checkbox).
+2. **Delete a Todo**  
+   Click the "Delete" button next to a todo to remove it from the list.
 
-3. **Edit a Todo**  
-   Let users edit the text of an existing todo.
+3. **Mark as Completed**  
+   Use the checkbox next to each todo to mark it as completed. Completed todos are shown with a line through the text.
 
-4. **Persist Todos**  
-   Save todos in the browser’s local storage so they don’t disappear when you refresh the page.
+4. **Edit a Todo**  
+   Click the "Edit" button to change the text of an existing todo. Save your changes with the "Save" button.
 
-5. **Add Due Dates**  
-   Allow users to set a due date for each todo.
+5. **Persist Todos**  
+   Todos are saved in the browser’s local storage. Your list will remain even after refreshing or closing the browser.
 
-6. **Filter Todos**  
-   Add options to show all, only completed, or only active todos.
+6. **Add Due Dates**  
+   You can set a due date for each todo using the date picker next to the input box. The due date is displayed next to each todo.
 
-7. **Clear All Todos**  
-   Add a button to remove all todos at once.
+7. **Filter Todos**  
+   Use the "All", "Active", and "Completed" buttons to filter your list and view only the todos you want.
 
-8. **Reorder Todos**  
-   Allow users to drag and drop to reorder the list.
+8. **Clear All Todos**  
+   Click the "Clear All" button to remove all todos from your list at once.
 
-Would you like help implementing any of these features?
+9. **Reorder Todos (Drag and Drop)**  
+   Drag and drop todos to reorder them in your list.
